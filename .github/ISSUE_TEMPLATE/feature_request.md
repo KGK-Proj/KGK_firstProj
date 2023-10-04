@@ -11,8 +11,8 @@ assignees: ''
 describe with short sentence
 
 ## Tasks
--[] 1.
--[] 2.
+- [ ] 1.
+- [ ] 2.
 
 ## References
 [ref.1](link)
